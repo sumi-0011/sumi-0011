@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+- 🔭 I’m currently working on ... 충남대
+- 🌱 I’m currently learning ...   데이터 베이스, 데이터 통신 , 리액트 등
 <!--
 **sumi-0011/sumi-0011** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
