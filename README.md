@@ -17,3 +17,4 @@
 - 2023.08~2024.03 DEPROMMET 14th 운영진 [🌐 depromeet site](https://www.depromeet.com/) [💻 repo](https://github.com/depromeet/www.depromeet.com)
 - 2023.08~ DEPROMMET 14th 최우수상/ 10MM 팀 팀장 & FE [🍎 Apple Store](https://www.10mm.today/auth/login?redirect=/) [🌐 10MM web](https://www.10mm.today/auth/login?redirect=/) [💻 repo](https://github.com/depromeet/10mm-client-web)
 - 2024.04 유니톤 11기 스태프
+- 2024.04 ~ 디프만 메이커스 활동
