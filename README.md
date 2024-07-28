@@ -1,5 +1,10 @@
+
 <a href="https://github.com/devxb/gitanimals">
-  <img src="https://render.gitanimals.org/farms/sumi-0011" width='400'/>
+<img
+  src="https://render.gitanimals.org/farms/sumi-0011"
+  width="600"
+  height="300"
+/>
 </a>
 
 ### 👣 2023
