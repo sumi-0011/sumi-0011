@@ -22,3 +22,4 @@
 - 2023.08~ DEPROMMET 14th 최우수상/ 10MM 팀 팀장 & FE [🍎 Apple Store](https://www.10mm.today/auth/login?redirect=/) [🌐 10MM web](https://www.10mm.today/auth/login?redirect=/) [💻 repo](https://github.com/depromeet/10mm-client-web)
 - 2024.04 유니톤 11기 스태프
 - 2024.04 ~ 디프만 메이커스 활동
+- 2024.08 Junction Asia 2024 Supporter [interview](https://www.instagram.com/p/C9hCEq_yjUm/?igsh=M3huemVxODJlYXpx)
